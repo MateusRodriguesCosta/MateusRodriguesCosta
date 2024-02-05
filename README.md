@@ -1,4 +1,4 @@
-# 👨‍💻 Mateus Costa <img alt="angular" width="30px" style="padding-right:10px;vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+# 👨‍💻 Mateus Costa <img alt="angular" width="30px" style="padding-right:10px;vertical-align:bottom;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 **`Feature Craftsman (Engineer/Developer)`**
 
 I'm a software developer with over six years of experience in IT helping the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I have set sail into Frontend apps and fell in love, Angular is my current favorite playground. 
