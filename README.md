@@ -1,7 +1,9 @@
 # 👨‍💻 Mateus Costa
 **`Feature Craftsman (Engineer/Developer)`**
 
-I'm a software developer with over six years of experience in IT helping the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I have set sail into Frontend apps and fell in love, Angular is my current favorite playground. Let's talk more and get in touch via **[LinkedIn](https://www.linkedin.com/in/mateusrocosta/)**.
+[![Linkedin Badge](https://img.shields.io/badge/-Mateusrocosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusrocosta/)](https://www.linkedin.com/in/mateusrocosta/)
+
+I'm a software developer with over six years of experience in IT helping the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I have set sail into Frontend apps and fell in love, Angular is my current favorite playground. 
 
 ### 🛠️ Languages and Tools
 
@@ -20,20 +22,4 @@ I'm a software developer with over six years of experience in IT helping the dig
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-          
-          
-          
-<!--
-**MateusRodriguesCosta/MateusRodriguesCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
