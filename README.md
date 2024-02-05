@@ -5,7 +5,7 @@ I'm a software developer with over six years of experience in IT helping the dig
 
 ### 🛠️ Languages and Tools
 
-<img align="left" alt="typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <!--
 **MateusRodriguesCosta/MateusRodriguesCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
