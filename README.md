@@ -1,5 +1,7 @@
 # 👨‍💻 Mateus Costa
 **`Feature Craftsman (Engineer/Developer/)`**
+
+I'm a software developer ... All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 <!--
 **MateusRodriguesCosta/MateusRodriguesCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
