@@ -2,6 +2,10 @@
 **`Feature Craftsman (Engineer/Developer/)`**
 
 I'm a software developer with over six years of experience in IT helping the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I have set sail into Frontend apps and fell in love, Angular is my current favorite playground. Let's talk more and get in touch via **[LinkedIn](https://www.linkedin.com/in/mateusrocosta/)**.
+
+### 🛠️ Languages and Tools
+
+<img align="left" alt="typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicon/icons/typescript/typescript-plain.svg" />
 <!--
 **MateusRodriguesCosta/MateusRodriguesCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
